@@ -6,8 +6,8 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 
 | Lesson | Topic | Status |
 |---|---|---|
-| 01 | Variables & Data Types | ☐ Todo |
-| 02 | Operators & Input/Output | ☐ Todo |
+| 01 | Variables & Data Types | ✅ Done |
+| 02 | Operators & Input/Output | ✅ Done |
 | 03 | Conditionals (if/elif/else) | ☐ Todo |
 | 04 | Loops — for | ☐ Todo |
 | 05 | Loops — while | ☐ Todo |
