@@ -9,7 +9,7 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 | 01 | Variables & Data Types | ✅ Done |
 | 02 | Operators & Input/Output | ✅ Done |
 | 03 | Conditionals (if/elif/else) | ✅ Done |
-| 04 | Loops — for | ☐ Todo |
+| 04 | Loops — for | ✅ Done |
 | 05 | Loops — while | ☐ Todo |
 | 06 | Strings deep dive (indexing, slicing, methods) | ☐ Todo |
 | 07 | Mini Project — CLI Calculator | ☐ Todo |
