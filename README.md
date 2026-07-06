@@ -11,7 +11,7 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 | 03 | Conditionals (if/elif/else) | ✅ Done |
 | 04 | Loops — for | ✅ Done |
 | 05 | Loops — while | ✅ Done |
-| 06 | Strings deep dive (indexing, slicing, methods) | ☐ Todo |
+| 06 | Strings deep dive (indexing, slicing, methods) | ✅ Done |
 | 07 | Mini Project — CLI Calculator | ☐ Todo |
 | 08 | Lists | ☐ Todo |
 | 09 | Tuples & Sets | ☐ Todo |
