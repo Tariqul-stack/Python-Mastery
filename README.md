@@ -13,7 +13,7 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 | 05 | Loops — while | ✅ Done |
 | 06 | Strings deep dive (indexing, slicing, methods) | ✅ Done |
 | 07 | Mini Project — CLI Calculator | ☐ Todo |
-| 08 | Lists | ☐ Todo |
+| 08 | Lists | ✅ Done |
 | 09 | Tuples & Sets | ☐ Todo |
 | 10 | Dictionaries | ☐ Todo |
 | 11 | Functions — basics | ☐ Todo |
