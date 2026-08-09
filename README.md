@@ -14,8 +14,8 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 | 06 | Strings deep dive (indexing, slicing, methods) | ✅ Done |
 | 07 | Mini Project — CLI Calculator | ☐ Todo |
 | 08 | Lists | ✅ Done |
-| 09 | Tuples & Sets | ☐ Todo |
-| 10 | Dictionaries | ☐ Todo |
+| 09 | Tuples & Sets | ✅ Done |
+| 10 | Dictionaries | ✅ Done |
 | 11 | Functions — basics | ☐ Todo |
 | 12 | Functions — advanced (*args, **kwargs, lambda) | ☐ Todo |
 | 13 | Error Handling (try/except/finally) | ☐ Todo |
