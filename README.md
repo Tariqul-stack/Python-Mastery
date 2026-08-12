@@ -17,7 +17,7 @@ A structured Python learning journey — from JavaScript/TypeScript developer to
 | 09 | Tuples & Sets | ✅ Done |
 | 10 | Dictionaries | ✅ Done |
 | 11 | Functions — basics | ✅ Done |
-| 12 | Functions — advanced (*args, **kwargs, lambda) | ☐ Todo |
+| 12 | Functions — advanced (*args, **kwargs, lambda) | ✅ Done |
 | 13 | Error Handling (try/except/finally) | ☐ Todo |
 | 14 | Mini Project — Contact Book | ☐ Todo |
 | 15 | Recursion patterns (intro) | ☐ Todo |
